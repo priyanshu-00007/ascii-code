@@ -96,6 +96,7 @@ def Number():
 
 def mainUI():
     os.system("cls")
+    print("\n\n","*"*10,"Priyanshu sharma","*"*10,end="")
     print("\n\n","*"*10,"ASCII ART PROJECT","*"*10,end="\n\n")
     print("OPTIONS -- \n\n")
     print("1. single Character")
@@ -123,4 +124,5 @@ def new_func(choise):
         Number()
     elif choise == "5":
         pass
+
 mainUI()
