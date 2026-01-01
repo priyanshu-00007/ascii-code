@@ -1,4 +1,4 @@
- ASCII Art Project (Python)
+# ASCII Art Project (Python)
 
  One Character
 
